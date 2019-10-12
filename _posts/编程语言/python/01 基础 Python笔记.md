@@ -1,14 +1,12 @@
 ﻿---
 title: python基础
 toc: true
-date: 2019-10-07 02:32:43
+date: 2019-10-12 21:32:43
 tags: [python,语法]
 categories:  
 - 编程语言
 - python
 ---
-
-[TOC]
 
 ## 概论
 
