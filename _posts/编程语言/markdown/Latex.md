@@ -1,5 +1,5 @@
 ﻿---
-title:Latex
+title: Latex
 toc: true
 date: 2019-10-12 22:30:06
 tags: [markdown,latex]
