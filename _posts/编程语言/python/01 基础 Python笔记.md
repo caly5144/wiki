@@ -1,5 +1,5 @@
 ﻿---
-title: article
+title: python基础
 toc: true
 date: 2019-10-07 02:32:43
 tags: [python,语法]
